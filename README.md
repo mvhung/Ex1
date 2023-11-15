@@ -1,5 +1,5 @@
 # EX1
-
+[demo](https://ex1-maiviethung-seta.netlify.app/)
 ## 1. tìm chuỗi có độ dài xuất hiện nhiều nhất
 
 - dùng forEach duyệt qua arr để tạo ra 1 object dạng {Key: độ dài chuỗi, value: là số lần xuất hiện}
